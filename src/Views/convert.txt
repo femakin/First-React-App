@@ -1,0 +1,34 @@
+// Convert
+
+[
+    {
+        id: 1,
+        name: "Ojay"
+    },
+    {
+        id: 2,
+        name: "femi"
+    },
+    {
+        id: 3,
+        name: "Josh"
+    },
+]
+
+// Expected output
+
+{
+    1:{
+        id: 1,
+        name: "Ojay"
+    },
+
+    2: {
+        id: 2,
+        name: "femi"
+    },
+    3: {
+        id: 3,
+        name: "Josh"
+    }
+}
